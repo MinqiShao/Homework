@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\homework2\1\bin\Debug\netcoreapp3.1\1.exe
+C:\Users\asus\Desktop\homework2\1\bin\Debug\netcoreapp3.1\1.deps.json
+C:\Users\asus\Desktop\homework2\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+C:\Users\asus\Desktop\homework2\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+C:\Users\asus\Desktop\homework2\1\bin\Debug\netcoreapp3.1\1.dll
+C:\Users\asus\Desktop\homework2\1\bin\Debug\netcoreapp3.1\1.pdb
+C:\Users\asus\Desktop\homework2\1\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\homework2\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\homework2\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+C:\Users\asus\Desktop\homework2\1\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\homework2\1\obj\Debug\netcoreapp3.1\1.dll
+C:\Users\asus\Desktop\homework2\1\obj\Debug\netcoreapp3.1\1.pdb
+C:\Users\asus\Desktop\homework2\1\obj\Debug\netcoreapp3.1\1.genruntimeconfig.cache
