@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\homework3\one\bin\Debug\netcoreapp3.1\one.exe
+C:\Users\asus\Desktop\homework3\one\bin\Debug\netcoreapp3.1\one.deps.json
+C:\Users\asus\Desktop\homework3\one\bin\Debug\netcoreapp3.1\one.runtimeconfig.json
+C:\Users\asus\Desktop\homework3\one\bin\Debug\netcoreapp3.1\one.runtimeconfig.dev.json
+C:\Users\asus\Desktop\homework3\one\bin\Debug\netcoreapp3.1\one.dll
+C:\Users\asus\Desktop\homework3\one\bin\Debug\netcoreapp3.1\one.pdb
+C:\Users\asus\Desktop\homework3\one\obj\Debug\netcoreapp3.1\one.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\homework3\one\obj\Debug\netcoreapp3.1\one.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\homework3\one\obj\Debug\netcoreapp3.1\one.AssemblyInfo.cs
+C:\Users\asus\Desktop\homework3\one\obj\Debug\netcoreapp3.1\one.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\homework3\one\obj\Debug\netcoreapp3.1\one.dll
+C:\Users\asus\Desktop\homework3\one\obj\Debug\netcoreapp3.1\one.pdb
+C:\Users\asus\Desktop\homework3\one\obj\Debug\netcoreapp3.1\one.genruntimeconfig.cache
