@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\homework4\two\bin\Debug\netcoreapp3.1\two.exe
+C:\Users\asus\Desktop\homework4\two\bin\Debug\netcoreapp3.1\two.deps.json
+C:\Users\asus\Desktop\homework4\two\bin\Debug\netcoreapp3.1\two.runtimeconfig.json
+C:\Users\asus\Desktop\homework4\two\bin\Debug\netcoreapp3.1\two.runtimeconfig.dev.json
+C:\Users\asus\Desktop\homework4\two\bin\Debug\netcoreapp3.1\two.dll
+C:\Users\asus\Desktop\homework4\two\bin\Debug\netcoreapp3.1\two.pdb
+C:\Users\asus\Desktop\homework4\two\obj\Debug\netcoreapp3.1\two.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\homework4\two\obj\Debug\netcoreapp3.1\two.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\homework4\two\obj\Debug\netcoreapp3.1\two.AssemblyInfo.cs
+C:\Users\asus\Desktop\homework4\two\obj\Debug\netcoreapp3.1\two.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\homework4\two\obj\Debug\netcoreapp3.1\two.dll
+C:\Users\asus\Desktop\homework4\two\obj\Debug\netcoreapp3.1\two.pdb
+C:\Users\asus\Desktop\homework4\two\obj\Debug\netcoreapp3.1\two.genruntimeconfig.cache
