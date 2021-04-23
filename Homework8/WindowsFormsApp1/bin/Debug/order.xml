@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <ID>1</ID>
+    <ClientName>张三</ClientName>
+    <Details>
+      <OrderDetails>
+        <GoodsName>pen</GoodsName>
+        <GoodsPrice>9.9</GoodsPrice>
+        <Number>1</Number>
+      </OrderDetails>
+      <OrderDetails>
+        <GoodsName>book</GoodsName>
+        <GoodsPrice>5.9</GoodsPrice>
+        <Number>1</Number>
+      </OrderDetails>
+    </Details>
+  </Order>
+  <Order>
+    <ID>2</ID>
+    <ClientName>李四</ClientName>
+    <Details>
+      <OrderDetails>
+        <GoodsName>book</GoodsName>
+        <GoodsPrice>5.9</GoodsPrice>
+        <Number>1</Number>
+      </OrderDetails>
+      <OrderDetails>
+        <GoodsName>paper</GoodsName>
+        <GoodsPrice>0.9</GoodsPrice>
+        <Number>2</Number>
+      </OrderDetails>
+    </Details>
+  </Order>
+</ArrayOfOrder>

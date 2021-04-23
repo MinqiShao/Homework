@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\Homework8\OrderSystem\bin\Debug\OrderSystem.pdb
+C:\Users\asus\Desktop\Homework8\OrderSystem\obj\Debug\OrderSystem.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Homework8\OrderSystem\obj\Debug\OrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Homework8\OrderSystem\obj\Debug\OrderSystem.pdb
+C:\Users\asus\Desktop\Homework8\OrderSystem\bin\Debug\OrderSystem.dll.config
+C:\Users\asus\Desktop\Homework8\OrderSystem\bin\Debug\OrderSystem.dll
+C:\Users\asus\Desktop\Homework8\OrderSystem\obj\Debug\OrderSystem.dll
